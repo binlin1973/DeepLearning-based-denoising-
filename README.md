@@ -1,4 +1,4 @@
-# DeepLearning-based-denoising-
+# DeepLearning-based-denoising
 FreeSWITCH gateways with DeepLearning-based denoising
 
 🔧 You can test it yourself:
